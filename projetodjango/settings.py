@@ -16,7 +16,7 @@ SECRET_KEY = 'm$wyh4qwpllt)!1$xzuad6(n_qdw*@sfzreec8z^bcil_0qxow'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['covisite4.herokuapp.com','erikasousa.heroku.app.com', 'localhost', '*']
+ALLOWED_HOSTS = ['izaacreis.heroku.app.com','erikasousa.heroku.app.com', 'localhost', '*']
 
 
 
