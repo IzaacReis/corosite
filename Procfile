@@ -1,1 +1,1 @@
-wb: gunicorn projetodjango.wsgi --log-file-
+wb: gunicorn projetodjango.wsgi --log-file -
